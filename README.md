@@ -9,7 +9,18 @@ To do this our tasked with:
 ![Fig-1](analysis/Fig1.png)
 
 * Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+
 ![Fig-2](analysis/Fig2.png)
+
+* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+![Fig-3](analysis/Fig3.png)
+
+* Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+![Fig-4](analysis/Fig4.png)
+
+
+
+
 
 
 
